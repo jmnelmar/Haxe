@@ -1,0 +1,10 @@
+{
+	"title": "StarWarlus",
+	"id": "com.example.myapp",
+	"type": "pdk",
+	"version": "0.0.1",
+	"vendor": "HaxeFlixel",
+	"icon": "icon.png",
+	"main": "StarWarlus",
+	"requiredMemory": 40
+}
